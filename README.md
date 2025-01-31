@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @NidaBatool
 
-- 👀 I’m interested in **MERN-Stack Development** and passionate about creating full-stack applications.
-- 🌱 I’m currently learning advanced concepts in **React.js**, **Node.js**, and **MongoDB**.
-- 💼 I offer web development services, including building dynamic websites using modern technologies.
-- 💻 Projects I'm working on include **e-commerce platforms**, **portfolio websites**, and other **business solutions**.
-- 🌟 I enjoy problem-solving and writing clean, maintainable code to create high-quality user experiences.
-- 🎯 My goal is to become a proficient Full-Stack Developer, contributing to impactful projects.
+I’m a Frontend Developer passionate about creating modern, responsive, and user-friendly web applications.
+🌱 I’m currently improving my skills in React.js, Tailwind CSS, and UI/UX design.
+💼 I offer frontend development services, including building interactive websites with clean and maintainable code.
+💻 I specialize in developing e-commerce platforms, portfolio websites, and business solutions.
+🌟 I enjoy problem-solving and crafting visually appealing, high-performance web experiences.
+🎯 My goal is to become an expert Frontend Developer, creating impactful and engaging digital products.
